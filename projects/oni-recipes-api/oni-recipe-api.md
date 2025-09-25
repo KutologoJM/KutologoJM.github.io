@@ -25,7 +25,7 @@ permalink: /oni-recipes-api/
 ---
 
 ## API Structure
-> Optionally visit: [API SWAGGER DOCS](https://example.com) for OpenAPI Documentation.
+> Optionally visit: [API SWAGGER DOCS](https://oni-recipe-api-v3.onrender.com/api/docs/swagger/) for OpenAPI Documentation.
 
 ___
 

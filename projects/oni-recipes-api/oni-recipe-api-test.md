@@ -12,19 +12,19 @@ permalink: /oni-recipes-api/test/
 
 In this tutorial, I will guide you through how to add two recipes, their respective ingredients and how to link them together. At the end, you will be able to view your recipe in this stylized form.
 
-< image of a finished recipe from oni-shell >
+<img src="assets/Example-completed-recipe.png" alt="Picture of a completed recipe" width="300">
 
 ### Step 1: Recipes
 
 > We shall be creating both recipe objects before moving on to the ingredients.
 > 
 > As this is a public demo/tutorial, please add a way to differentiate your recipe and ingredient names so they're easier to keep track of. 
-> One option is appending your initials at the end, e.g. <Frost Burger K.J.>
+> One option is appending your initials at the end, e.g. Frost Burger KM
 
 #### Here are the 2 recipes you will be adding to the api:
 
 #### Cooked Seafood
-<img src="assets/Cooked%20Seafood.png" alt="" width="300">
+<img src="assets/Cooked-Seafood.png" alt="Picture of Cooked Seafood" width="300">
 
 ```
 Name: Cooked Seafood
@@ -41,7 +41,7 @@ Calories produced: 1600
 ```
 
 #### Curried Beans
-<img src="assets/Curried%20Beans.png" alt="" width="300">
+<img src="assets/Curried-Beans.png" alt="Picture of Curried Beans" width="300">
 
 ```
 Name: Curried Beans
@@ -71,7 +71,7 @@ As with the ingredients we will be adding all 4 ingredients before moving on to 
 #### Here are the 4 ingredients you will be adding to the api:
 
 #### Raw Shellfish
-<img src="assets/Raw%20Shellfish.png" alt="" width="300">
+<img src="assets/Raw-Shellfish.png" alt="Picture of Raw Shellfish" width="300">
 
 ```
 Name: Raw Shellfish
@@ -86,7 +86,7 @@ Source image url: leave blank
 ```
 
 #### Pacu Fillet
-<img src="assets/Pacu%20Fillet.png" alt="" width="300">
+<img src="assets/Pacu-Fillet.png" alt="Picture of Pacu Fillet" width="300">
 
 ```
 Name: Pacu Fillet
@@ -101,7 +101,7 @@ Source image url: leave blank
 ```
 
 #### Tonic Root
-<img src="assets/Tonic%20Root.png" alt="" width="300">
+<img src="assets/Tonic-Root.png" alt="Picture of Tonic root" width="300">
 
 ```
 Name: Tonic Root
@@ -117,7 +117,7 @@ Source image url: leave blank
 ```
 
 #### Nosh Bean
-<img src="assets/Nosh%20Bean.png" alt="" width="300">
+<img src="assets/Nosh-Bean.png" alt="Picture of Nosh bean" width="300">
 
 ```
 Name: Nosh Bean
@@ -141,7 +141,7 @@ ___
 For our final step, we shall link the ingredients you have created to their specific recipes.
 
 #### The Recipe Ingredients interface
-<img src="assets/recipe-ingredients-form.png" alt="" width="500">
+<img src="assets/recipe-ingredients-form.png" alt="Picture of the recipe ingredients form" width="500">
 
 
 > Recipe id: choose your desired recipe from the drop-down menu
@@ -152,7 +152,7 @@ For our final step, we shall link the ingredients you have created to their spec
 
 
 #### Cooked Seafood
-<img src="assets/Cooked%20Seafood.png" alt="" width="300">
+<img src="assets/Cooked-Seafood.png" alt="Picture of Cooked Seafood" width="300">
 
 ```
 Recipe id: Cooked Seafood
@@ -170,7 +170,7 @@ Role: alternate
 ```
 
 #### Curried Beans
-<img src="assets/Curried%20Beans.png" alt="" width="300">
+<img src="assets/Curried-Beans.png" alt="Picture of Curried Beans" width="300">
 
 ```
 Recipe id: Curried Beans
