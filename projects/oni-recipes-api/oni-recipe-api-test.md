@@ -196,4 +196,4 @@ ___
 
 I hope this tutorial was a sufficient guide into this api and helped you along the way in creating your own entries. Now we can take a look at the results of your hard work. 
 
-[Click here to view your recipe entries]({{ '/oni-recipes-api/trial/' | relative_url }})
+[Click here to view your recipe entries](/projects/oni-recipes-api/trial/index.html)
