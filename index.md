@@ -7,7 +7,7 @@ layout: default
 
 # Welcome to my Portfolio
 
-> his site is where I showcase my APIs and coding projects in a way that’s both clear and intuitive.
+> This site is where I showcase my APIs and coding projects in a way that’s both clear and intuitive.
 
 ## Table of Contents
 
