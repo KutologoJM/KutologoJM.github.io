@@ -10,6 +10,17 @@ permalink: /oni-recipes-api/test/
 
 # ONI FOOD API TUTORIAL
 
+## To use this api you will need to register a test account, you will not need to link any real life accounts to it.
+
+Please click on the link below and you will be taken to the registration page.
+Once there enter a simple username and a simple password (e.g. simplepass), next close that window and click on step 2.
+Enter your newly created username and password. If you see your username, you have been successfuly logged in.
+
+<a href="https://oni-recipe-api-v3.onrender.com/accounts/register/" target="_blank">Step 1</a>
+<a href="https://oni-recipe-api-v3.onrender.com/accounts/login/" target="_blank">Step 2</a>
+
+___
+
 In this tutorial, I will guide you through how to add two recipes, their respective ingredients and how to link them together. At the end, you will be able to view your recipe in this stylized form.
 
 <img src="/projects/oni-recipes-api/assets/Example-completed-recipe.png" alt="Picture of a completed recipe" width="300">
