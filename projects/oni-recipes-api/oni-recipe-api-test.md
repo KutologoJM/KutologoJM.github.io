@@ -29,8 +29,9 @@ In this tutorial, I will guide you through how to add two recipes, their respect
 
 > We shall be creating both recipe objects before moving on to the ingredients.
 > 
-> As this is a public demo/tutorial, please add a way to differentiate your recipe and ingredient names so they're easier to keep track of. 
-> One option is appending your initials at the end, e.g. Frost Burger KM
+> As this is a public demo/tutorial, I have made it so that you are only able to view your own additions.
+>
+> While using the api, after you press POST to submit your contribution please press GET to continue instead of refreshing the page.
 
 #### Here are the 2 recipes you will be adding to the api:
 
@@ -207,4 +208,4 @@ ___
 
 I hope this tutorial was a sufficient guide into this api and helped you along the way in creating your own entries. Now we can take a look at the results of your hard work. 
 
-[Click here to view your recipe entries](/projects/oni-recipes-api/trial/index.html)
+[Click here to view your recipe entries](https://oni-recipe-api-v3.onrender.com/v3/showcase/)
